@@ -24,9 +24,7 @@ don't hesitate to contact us at [slack@chef.io](mailto:slack@chef.io).
 
 ### Getting Started with Slack
 
-To register for our Slack team, please enter your email address below. Whatever
-address you use with be visible to other Slack users, but can be any address
-you want to use.
+To register for our Slack team, please enter your email address below.
 
 The Chef community is a mixture of professionals and volunteers who come from
 all over the world and work together to make Chef better. Community members
