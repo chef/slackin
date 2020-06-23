@@ -17,7 +17,7 @@
 
 Hello and welcome! This page will walk you through joining and using the Chef
 community Slack team. If you have any questions about anything here, please
-don't hesitate to contact us at [slack@chef.io](mailto:slack@chef.io).
+don't hesitate to contact us at [community@chef.io](mailto:community@chef.io).
 
 </div>
 <div class="row">
@@ -30,8 +30,7 @@ The Chef community is a mixture of professionals and volunteers who come from
 all over the world and work together to make Chef better. Community members
 fulfill many roles, including mentoring, teaching, and connecting with other
 members of the community.  All participants in the Chef Community Slack agree to
-follow the [Chef Community
-Guidelines](https://github.com/chef/chef-rfc/blob/master/rfc020-community-guidelines.md).
+follow the [Chef Code of Conduct](https://community.chef.io/code-of-conduct/).
 
 <iframe src="/iframe/dialog" frameBorder=0 style="border: 0"> </iframe>
 
@@ -44,10 +43,15 @@ their web application or [download a desktop or mobile client](https://slack.com
 
 ### Slack Channels
 
-By default
-you will be added to the `#general` channel which is our general-purpose
-discussion chat. Other more topic-specific channels are available in the
-channels menu on the left.
+By default you will be added to the following channels. 
+
+* **`#general`** : our general-purpose discussion chat. 
+* **`#announcements`** : Primarily for release announcements
+* **`#ChefConf`** : Discussion of our annual conference [ChefConf](ChefConf.io)
+* **`#community-meetings`** : The channel in which we hold our text-based weekly community development update meetings
+* **`#devrel`** : The channel in which the Developer Relations team will share updates about what they're doing on a regular basis.
+
+Other more topic-specific channels are available in the channels menu on the left.
 
 ![Join a Channel](assets/join_a_channel.gif)
 
@@ -86,6 +90,8 @@ these very sparingly. Remember that use of these can send push notifications to
 a large number of users, who may be confused or frustrated if the message was
 less critical than they originally thought.
 
+Additionally, we do not allow solicitation or advertising of products, conferences, or anything else unrelated to the Chef ecosystem. If you have questions about whether or not your content is allowed, feel free to reach out to [https://chefcommunity.slack.com/team/UQC0ABRBQ](@benny Vasquez).
+
 </div>
 <div class="row">
 
@@ -98,15 +104,10 @@ with our awesome community.
 * **Why Slack?**
   * Chef used IRC for our community chat for many years, however stagnation of the
 user experience for IRC combined with many improvements available from Slack
-prompted us to reconsider this. You can read more about the rationale of the
-move in [Chef RFC 74](https://github.com/chef/chef-rfc/blob/master/rfc074-community-slack.md).
+prompted us to reconsider this. You can read more about  why we use Slack in the [Communication FAQ](https://github.com/chef/chef-oss-practices/blob/master/communication/communication-faq.md).
 * **Can I Use My Supermarket or Discourse Account?**
   * Unfortunately not at this time. For now your Slack account is independent of
 the other Chef community tools.
-* **Where I Can Find Logs Of Slack Channels?**
-  * You can find a permanent, searchable archive of our Slack channels at [SlackArchive](http://chefcommunity.slackarchive.io/).
-You can also search the last ten thousand messages from within the Slack client. Be aware that archiving must be configured
-for each channel by inviting the `@slack_archive_bot` account.
 * **Where Else Can I Find Help With Chef?**
   * We have a mailing list and forum at [discourse.chef.io](https://discourse.chef.io/)
 if you prefer a more asynchronous approach. We also have volunteers on
