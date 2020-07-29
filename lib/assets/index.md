@@ -30,7 +30,8 @@ The Chef community is a mixture of professionals and volunteers who come from
 all over the world and work together to make Chef better. Community members
 fulfill many roles, including mentoring, teaching, and connecting with other
 members of the community.  All participants in the Chef Community Slack agree to
-follow the [Chef Code of Conduct](https://community.chef.io/code-of-conduct/).
+follow the [Chef Code of Conduct](https://community.chef.io/code-of-conduct/) and
+agree to our [privacy policy](https://www.chef.io/privacy-policy/).
 
 <iframe src="/iframe/dialog" frameBorder=0 style="border: 0"> </iframe>
 
@@ -90,7 +91,9 @@ these very sparingly. Remember that use of these can send push notifications to
 a large number of users, who may be confused or frustrated if the message was
 less critical than they originally thought.
 
-Additionally, we do not allow solicitation or advertising of products, conferences, or anything else unrelated to the Chef ecosystem. If you have questions about whether or not your content is allowed, feel free to reach out to [https://chefcommunity.slack.com/team/UQC0ABRBQ](@benny Vasquez).
+Additionally, we do not allow solicitation or advertising of products, conferences, 
+or anything else unrelated to the Chef ecosystem. If you have questions about 
+whether or not your content is allowed, feel free to reach out to [@benny Vasquez](https://chefcommunity.slack.com/team/UQC0ABRBQ).
 
 </div>
 <div class="row">
